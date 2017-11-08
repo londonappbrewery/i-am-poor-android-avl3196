@@ -18,7 +18,7 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="19dp"
-        android:text="I Am Poor"
+        android:text="I Am So Poor"
         android:textSize="40sp" />
 
     <ImageView
